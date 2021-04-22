@@ -1,0 +1,16 @@
+{
+    "sample_submission_path": "data/sample_submission.csv",
+    "mask_path": "data/mask/mask/",
+    "images_path": "data/Images_composit/Images_composit/8_ch/",
+    "device": "cuda",
+    "img_size": 256,
+
+    "batch": 5,
+    "patience": 7,
+    "img_channels": 3,
+    "is_siamese": true,
+    "model": "densenet161",
+    "in_filters": 64,
+    "model_name": "siamese_unet_densenet161",
+    "pretrained": "models/pretrained/pseudo_densenet_seamese_unet_shared_densenet161_0_best_xview"
+}

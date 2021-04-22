@@ -1,0 +1,16 @@
+{
+    "sample_submission_path": "data/sample_submission.csv",
+    "mask_path": "data/mask/mask/",
+    "images_path": "data/Images_composit/Images_composit/8_ch/",
+    "device": "cuda",
+    "img_size": 256,
+
+    "batch": 5,
+    "patience": 7,
+    "img_channels": 3,
+    "is_siamese": true,
+    "model": "resnext101",
+    "in_filters": 48,
+    "model_name": "siamese_unet_resnext101",
+    "pretrained": "models/pretrained/sgd_resnext_seamese_unet_shared_resnext101_0_best_xview"
+}

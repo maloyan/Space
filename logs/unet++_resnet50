@@ -1,0 +1,4 @@
+Epoch: 68
+train: 100%|██████████| 20/20 [00:06<00:00,  3.01it/s, dice_loss + bce_loss - 0.2424, iou_score - 0.8794]
+valid: 100%|██████████| 20/20 [00:02<00:00,  9.19it/s, dice_loss + bce_loss - 0.2144, iou_score - 0.8912]
+Model saved!

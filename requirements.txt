@@ -1,0 +1,9 @@
+albumentations==0.5.2
+opencv-python==4.5.1.48
+segmentation-models-pytorch==0.1.3
+ttach==0.0.3
+numpy==1.17.4
+pandas==1.2.3
+torch==1.8.1
+GDAL==3.0.4
+matplotlib==3.1.2

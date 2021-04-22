@@ -1,0 +1,14 @@
+{
+    "sample_submission_path": "data/sample_submission.csv",
+    "mask_path": "data/mask/mask/",
+    "images_path": "data/Images_composit/Images_composit/8_ch/",
+    "device": "cuda",
+    "img_size": 256,
+
+    "batch": 5,
+    "patience": 7,
+    "img_channels": 3,
+    "is_siamese": true,
+    "model": "snunet",
+    "model_name": "siamese_unet_snunet"
+}

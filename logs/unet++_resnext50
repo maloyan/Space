@@ -1,0 +1,368 @@
+Epoch: 0
+train: 100%|██████████| 100/100 [00:28<00:00,  3.59it/s, dice_loss + bce_loss - 1.419, iou_score - 0.1653]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.65it/s, dice_loss + bce_loss - 1.272, iou_score - 0.2836]
+Model saved!
+
+Epoch: 1
+train: 100%|██████████| 100/100 [00:29<00:00,  3.43it/s, dice_loss + bce_loss - 1.153, iou_score - 0.4113]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.37it/s, dice_loss + bce_loss - 1.315, iou_score - 0.4525]
+Model saved!
+
+Epoch: 2
+train: 100%|██████████| 100/100 [00:29<00:00,  3.54it/s, dice_loss + bce_loss - 1.031, iou_score - 0.4845]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.36it/s, dice_loss + bce_loss - 0.9914, iou_score - 0.4796]
+Model saved!
+
+Epoch: 3
+train: 100%|██████████| 100/100 [00:29<00:00,  3.38it/s, dice_loss + bce_loss - 0.9205, iou_score - 0.5733]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.30it/s, dice_loss + bce_loss - 0.8779, iou_score - 0.6397]
+Model saved!
+
+Epoch: 4
+train: 100%|██████████| 100/100 [00:29<00:00,  3.33it/s, dice_loss + bce_loss - 0.8441, iou_score - 0.6029]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.95it/s, dice_loss + bce_loss - 0.8204, iou_score - 0.5663]
+
+Epoch: 5
+train: 100%|██████████| 100/100 [00:26<00:00,  3.88it/s, dice_loss + bce_loss - 0.7261, iou_score - 0.6446]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.39it/s, dice_loss + bce_loss - 0.6982, iou_score - 0.6468]
+Model saved!
+
+Epoch: 6
+train: 100%|██████████| 100/100 [00:28<00:00,  3.67it/s, dice_loss + bce_loss - 0.6231, iou_score - 0.6676]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.94it/s, dice_loss + bce_loss - 0.5503, iou_score - 0.7406]
+Model saved!
+
+Epoch: 7
+train: 100%|██████████| 100/100 [00:27<00:00,  3.70it/s, dice_loss + bce_loss - 0.493, iou_score - 0.7117]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.91it/s, dice_loss + bce_loss - 0.4712, iou_score - 0.7461]
+Model saved!
+
+Epoch: 8
+train: 100%|██████████| 100/100 [00:27<00:00,  3.54it/s, dice_loss + bce_loss - 0.414, iou_score - 0.7233]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.94it/s, dice_loss + bce_loss - 0.3907, iou_score - 0.7192]
+
+Epoch: 9
+train: 100%|██████████| 100/100 [00:27<00:00,  3.70it/s, dice_loss + bce_loss - 0.3485, iou_score - 0.7409]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.79it/s, dice_loss + bce_loss - 0.306, iou_score - 0.7736]
+Model saved!
+
+Epoch: 10
+train: 100%|██████████| 100/100 [00:27<00:00,  3.62it/s, dice_loss + bce_loss - 0.2921, iou_score - 0.7667]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.82it/s, dice_loss + bce_loss - 0.2548, iou_score - 0.781]
+Model saved!
+
+Epoch: 11
+train: 100%|██████████| 100/100 [00:27<00:00,  3.60it/s, dice_loss + bce_loss - 0.2767, iou_score - 0.7398]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.89it/s, dice_loss + bce_loss - 0.2404, iou_score - 0.7602]
+
+Epoch: 12
+train: 100%|██████████| 100/100 [00:27<00:00,  3.54it/s, dice_loss + bce_loss - 0.2367, iou_score - 0.766]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.80it/s, dice_loss + bce_loss - 0.2353, iou_score - 0.7575]
+
+Epoch: 13
+train: 100%|██████████| 100/100 [00:27<00:00,  3.71it/s, dice_loss + bce_loss - 0.2057, iou_score - 0.7858]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.78it/s, dice_loss + bce_loss - 0.1936, iou_score - 0.799]
+Model saved!
+
+Epoch: 14
+train: 100%|██████████| 100/100 [00:27<00:00,  3.68it/s, dice_loss + bce_loss - 0.2009, iou_score - 0.7809]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.81it/s, dice_loss + bce_loss - 0.1873, iou_score - 0.7889]
+
+Epoch: 15
+train: 100%|██████████| 100/100 [00:27<00:00,  3.61it/s, dice_loss + bce_loss - 0.1747, iou_score - 0.7985]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.95it/s, dice_loss + bce_loss - 0.1858, iou_score - 0.7918]
+
+Epoch: 16
+train: 100%|██████████| 100/100 [00:27<00:00,  3.76it/s, dice_loss + bce_loss - 0.1927, iou_score - 0.7727]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.89it/s, dice_loss + bce_loss - 0.1689, iou_score - 0.7997]
+Model saved!
+
+Epoch: 17
+train: 100%|██████████| 100/100 [00:27<00:00,  3.73it/s, dice_loss + bce_loss - 0.1902, iou_score - 0.7737]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.84it/s, dice_loss + bce_loss - 0.1643, iou_score - 0.7988]
+
+Epoch: 18
+train: 100%|██████████| 100/100 [00:27<00:00,  3.63it/s, dice_loss + bce_loss - 0.1567, iou_score - 0.8074]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.81it/s, dice_loss + bce_loss - 0.1494, iou_score - 0.8214]
+Model saved!
+
+Epoch: 19
+train: 100%|██████████| 100/100 [00:27<00:00,  3.65it/s, dice_loss + bce_loss - 0.1513, iou_score - 0.8097]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.64it/s, dice_loss + bce_loss - 0.1397, iou_score - 0.827]
+Model saved!
+
+Epoch: 20
+train: 100%|██████████| 100/100 [00:27<00:00,  3.79it/s, dice_loss + bce_loss - 0.141, iou_score - 0.8183]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.50it/s, dice_loss + bce_loss - 0.1378, iou_score - 0.825]
+
+Epoch: 21
+train: 100%|██████████| 100/100 [00:27<00:00,  3.63it/s, dice_loss + bce_loss - 0.1438, iou_score - 0.8124]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.94it/s, dice_loss + bce_loss - 0.1388, iou_score - 0.8202]
+
+Epoch: 22
+train: 100%|██████████| 100/100 [00:27<00:00,  3.68it/s, dice_loss + bce_loss - 0.1283, iou_score - 0.8326]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.94it/s, dice_loss + bce_loss - 0.1164, iou_score - 0.8443]
+Model saved!
+
+Epoch: 23
+train: 100%|██████████| 100/100 [00:27<00:00,  3.69it/s, dice_loss + bce_loss - 0.1315, iou_score - 0.8245]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.05it/s, dice_loss + bce_loss - 0.12, iou_score - 0.8398] 
+
+Epoch: 24
+train: 100%|██████████| 100/100 [00:27<00:00,  3.67it/s, dice_loss + bce_loss - 0.1205, iou_score - 0.8342]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.99it/s, dice_loss + bce_loss - 0.1126, iou_score - 0.8487]
+Model saved!
+
+Epoch: 25
+train: 100%|██████████| 100/100 [00:28<00:00,  3.53it/s, dice_loss + bce_loss - 0.1293, iou_score - 0.8252]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.29it/s, dice_loss + bce_loss - 0.1094, iou_score - 0.848] 
+
+Epoch: 26
+train: 100%|██████████| 100/100 [00:27<00:00,  3.43it/s, dice_loss + bce_loss - 0.1225, iou_score - 0.8312]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.81it/s, dice_loss + bce_loss - 0.1136, iou_score - 0.847]
+
+Epoch: 27
+train: 100%|██████████| 100/100 [00:27<00:00,  3.72it/s, dice_loss + bce_loss - 0.1136, iou_score - 0.8433]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.87it/s, dice_loss + bce_loss - 0.1218, iou_score - 0.8323]
+
+Epoch: 28
+train: 100%|██████████| 100/100 [00:27<00:00,  3.65it/s, dice_loss + bce_loss - 0.1101, iou_score - 0.845]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.96it/s, dice_loss + bce_loss - 0.0996, iou_score - 0.86]  
+Model saved!
+
+Epoch: 29
+train: 100%|██████████| 100/100 [00:27<00:00,  3.75it/s, dice_loss + bce_loss - 0.1216, iou_score - 0.8314]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.91it/s, dice_loss + bce_loss - 0.1012, iou_score - 0.8546]
+
+Epoch: 30
+train: 100%|██████████| 100/100 [00:27<00:00,  3.73it/s, dice_loss + bce_loss - 0.1052, iou_score - 0.8502]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.94it/s, dice_loss + bce_loss - 0.1037, iou_score - 0.8511]
+
+Epoch: 31
+train: 100%|██████████| 100/100 [00:27<00:00,  3.69it/s, dice_loss + bce_loss - 0.106, iou_score - 0.8488] 
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.94it/s, dice_loss + bce_loss - 0.1001, iou_score - 0.8544]
+
+Epoch: 32
+train: 100%|██████████| 100/100 [00:27<00:00,  3.71it/s, dice_loss + bce_loss - 0.1087, iou_score - 0.8436]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.89it/s, dice_loss + bce_loss - 0.1012, iou_score - 0.8514]
+
+Epoch: 33
+train: 100%|██████████| 100/100 [00:27<00:00,  3.70it/s, dice_loss + bce_loss - 0.1026, iou_score - 0.8512]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.96it/s, dice_loss + bce_loss - 0.1049, iou_score - 0.8481]
+
+Epoch: 34
+train: 100%|██████████| 100/100 [00:27<00:00,  3.72it/s, dice_loss + bce_loss - 0.1053, iou_score - 0.8492]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.84it/s, dice_loss + bce_loss - 0.09575, iou_score - 0.8608]
+Model saved!
+
+Epoch: 35
+train: 100%|██████████| 100/100 [00:27<00:00,  3.67it/s, dice_loss + bce_loss - 0.0945, iou_score - 0.8603]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.88it/s, dice_loss + bce_loss - 0.09071, iou_score - 0.8658]
+Model saved!
+
+Epoch: 36
+train: 100%|██████████| 100/100 [00:27<00:00,  3.72it/s, dice_loss + bce_loss - 0.1027, iou_score - 0.849] 
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.78it/s, dice_loss + bce_loss - 0.1065, iou_score - 0.8432]
+
+Epoch: 37
+train: 100%|██████████| 100/100 [00:27<00:00,  3.66it/s, dice_loss + bce_loss - 0.09956, iou_score - 0.8548]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.03it/s, dice_loss + bce_loss - 0.09035, iou_score - 0.8662]
+Model saved!
+
+Epoch: 38
+train: 100%|██████████| 100/100 [00:27<00:00,  3.70it/s, dice_loss + bce_loss - 0.09458, iou_score - 0.8591]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.98it/s, dice_loss + bce_loss - 0.09357, iou_score - 0.8629]
+
+Epoch: 39
+train: 100%|██████████| 100/100 [00:27<00:00,  3.71it/s, dice_loss + bce_loss - 0.09673, iou_score - 0.8553]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.49it/s, dice_loss + bce_loss - 0.08789, iou_score - 0.8682]
+Model saved!
+
+Epoch: 40
+train: 100%|██████████| 100/100 [00:27<00:00,  3.76it/s, dice_loss + bce_loss - 0.09148, iou_score - 0.8627]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.59it/s, dice_loss + bce_loss - 0.08633, iou_score - 0.8709]
+Model saved!
+
+Epoch: 41
+train: 100%|██████████| 100/100 [00:27<00:00,  3.54it/s, dice_loss + bce_loss - 0.09697, iou_score - 0.8556]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.50it/s, dice_loss + bce_loss - 0.07969, iou_score - 0.8789]
+Model saved!
+
+Epoch: 42
+train: 100%|██████████| 100/100 [00:27<00:00,  3.69it/s, dice_loss + bce_loss - 0.08502, iou_score - 0.8706]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.07it/s, dice_loss + bce_loss - 0.08333, iou_score - 0.874]
+
+Epoch: 43
+train: 100%|██████████| 100/100 [00:27<00:00,  3.62it/s, dice_loss + bce_loss - 0.09899, iou_score - 0.8512]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.17it/s, dice_loss + bce_loss - 0.08989, iou_score - 0.8649]
+
+Epoch: 44
+train: 100%|██████████| 100/100 [00:27<00:00,  3.59it/s, dice_loss + bce_loss - 0.08088, iou_score - 0.8765]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.92it/s, dice_loss + bce_loss - 0.0774, iou_score - 0.882] 
+Model saved!
+
+Epoch: 45
+train: 100%|██████████| 100/100 [00:27<00:00,  3.68it/s, dice_loss + bce_loss - 0.08728, iou_score - 0.8678]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.74it/s, dice_loss + bce_loss - 0.08555, iou_score - 0.8685]
+
+Epoch: 46
+train: 100%|██████████| 100/100 [00:27<00:00,  3.59it/s, dice_loss + bce_loss - 0.08644, iou_score - 0.8686]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.03it/s, dice_loss + bce_loss - 0.08309, iou_score - 0.8743]
+
+Epoch: 47
+train: 100%|██████████| 100/100 [00:27<00:00,  3.63it/s, dice_loss + bce_loss - 0.09635, iou_score - 0.856]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.85it/s, dice_loss + bce_loss - 0.08064, iou_score - 0.8752]
+
+Epoch: 48
+train: 100%|██████████| 100/100 [00:27<00:00,  3.62it/s, dice_loss + bce_loss - 0.08418, iou_score - 0.871]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.78it/s, dice_loss + bce_loss - 0.08101, iou_score - 0.8753]
+
+Epoch: 49
+train: 100%|██████████| 100/100 [00:27<00:00,  3.72it/s, dice_loss + bce_loss - 0.08219, iou_score - 0.873]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.04it/s, dice_loss + bce_loss - 0.07798, iou_score - 0.8801]
+
+Epoch: 50
+train: 100%|██████████| 100/100 [00:27<00:00,  3.68it/s, dice_loss + bce_loss - 0.08563, iou_score - 0.8687]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.98it/s, dice_loss + bce_loss - 0.07528, iou_score - 0.8836]
+Model saved!
+
+Epoch: 51
+train: 100%|██████████| 100/100 [00:28<00:00,  3.45it/s, dice_loss + bce_loss - 0.08224, iou_score - 0.8728]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.45it/s, dice_loss + bce_loss - 0.07907, iou_score - 0.8788]
+
+Epoch: 52
+train: 100%|██████████| 100/100 [00:27<00:00,  3.73it/s, dice_loss + bce_loss - 0.0868, iou_score - 0.8709]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.74it/s, dice_loss + bce_loss - 0.07635, iou_score - 0.8817]
+
+Epoch: 53
+train: 100%|██████████| 100/100 [00:27<00:00,  3.76it/s, dice_loss + bce_loss - 0.07852, iou_score - 0.8785]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.95it/s, dice_loss + bce_loss - 0.08027, iou_score - 0.8754]
+
+Epoch: 54
+train: 100%|██████████| 100/100 [00:27<00:00,  3.65it/s, dice_loss + bce_loss - 0.08684, iou_score - 0.8659]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.85it/s, dice_loss + bce_loss - 0.07297, iou_score - 0.8856]
+Model saved!
+
+Epoch: 55
+train: 100%|██████████| 100/100 [00:27<00:00,  3.69it/s, dice_loss + bce_loss - 0.07945, iou_score - 0.8754]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.75it/s, dice_loss + bce_loss - 0.07126, iou_score - 0.8886]
+Model saved!
+
+Epoch: 56
+train: 100%|██████████| 100/100 [00:27<00:00,  3.68it/s, dice_loss + bce_loss - 0.07888, iou_score - 0.8776]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.88it/s, dice_loss + bce_loss - 0.07926, iou_score - 0.877]
+
+Epoch: 57
+train: 100%|██████████| 100/100 [00:27<00:00,  3.66it/s, dice_loss + bce_loss - 0.07366, iou_score - 0.8852]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.83it/s, dice_loss + bce_loss - 0.07877, iou_score - 0.8766]
+
+Epoch: 58
+train: 100%|██████████| 100/100 [00:27<00:00,  3.62it/s, dice_loss + bce_loss - 0.07946, iou_score - 0.8757]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.85it/s, dice_loss + bce_loss - 0.07852, iou_score - 0.8778]
+
+Epoch: 59
+train: 100%|██████████| 100/100 [00:27<00:00,  3.62it/s, dice_loss + bce_loss - 0.08184, iou_score - 0.8729]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.73it/s, dice_loss + bce_loss - 0.06951, iou_score - 0.8909]
+Model saved!
+
+Epoch: 60
+train: 100%|██████████| 100/100 [00:27<00:00,  3.74it/s, dice_loss + bce_loss - 0.07758, iou_score - 0.8782]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.74it/s, dice_loss + bce_loss - 0.07712, iou_score - 0.8806]
+
+Epoch: 61
+train: 100%|██████████| 100/100 [00:27<00:00,  3.65it/s, dice_loss + bce_loss - 0.07706, iou_score - 0.8785]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.96it/s, dice_loss + bce_loss - 0.07317, iou_score - 0.8848]
+
+Epoch: 62
+train: 100%|██████████| 100/100 [00:27<00:00,  3.72it/s, dice_loss + bce_loss - 0.07529, iou_score - 0.8822]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.97it/s, dice_loss + bce_loss - 0.06943, iou_score - 0.8912]
+Model saved!
+
+Epoch: 63
+train: 100%|██████████| 100/100 [00:27<00:00,  3.86it/s, dice_loss + bce_loss - 0.08236, iou_score - 0.8716]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.06it/s, dice_loss + bce_loss - 0.06757, iou_score - 0.8934]
+Model saved!
+
+Epoch: 64
+train: 100%|██████████| 100/100 [00:28<00:00,  3.50it/s, dice_loss + bce_loss - 0.07774, iou_score - 0.8783]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.54it/s, dice_loss + bce_loss - 0.07312, iou_score - 0.8852]
+
+Epoch: 65
+train: 100%|██████████| 100/100 [00:28<00:00,  3.51it/s, dice_loss + bce_loss - 0.07303, iou_score - 0.8849]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.65it/s, dice_loss + bce_loss - 0.06954, iou_score - 0.8904]
+
+Epoch: 66
+train: 100%|██████████| 100/100 [00:28<00:00,  3.58it/s, dice_loss + bce_loss - 0.07633, iou_score - 0.8799]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.55it/s, dice_loss + bce_loss - 0.07054, iou_score - 0.8889]
+
+Epoch: 67
+train: 100%|██████████| 100/100 [00:28<00:00,  3.60it/s, dice_loss + bce_loss - 0.07827, iou_score - 0.877]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.31it/s, dice_loss + bce_loss - 0.06884, iou_score - 0.8911]
+
+Epoch: 68
+train: 100%|██████████| 100/100 [00:28<00:00,  3.62it/s, dice_loss + bce_loss - 0.08854, iou_score - 0.8623]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.55it/s, dice_loss + bce_loss - 0.06657, iou_score - 0.8945]
+Model saved!
+
+Epoch: 69
+train: 100%|██████████| 100/100 [00:28<00:00,  3.59it/s, dice_loss + bce_loss - 0.07221, iou_score - 0.8859]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.62it/s, dice_loss + bce_loss - 0.06584, iou_score - 0.8967]
+Model saved!
+
+Epoch: 70
+train: 100%|██████████| 100/100 [00:28<00:00,  3.57it/s, dice_loss + bce_loss - 0.06913, iou_score - 0.8903]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.74it/s, dice_loss + bce_loss - 0.06347, iou_score - 0.8987]
+Model saved!
+
+Epoch: 71
+train: 100%|██████████| 100/100 [00:28<00:00,  3.51it/s, dice_loss + bce_loss - 0.0793, iou_score - 0.8758]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.67it/s, dice_loss + bce_loss - 0.07135, iou_score - 0.8864]
+
+Epoch: 72
+train: 100%|██████████| 100/100 [00:28<00:00,  3.63it/s, dice_loss + bce_loss - 0.07301, iou_score - 0.884]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.65it/s, dice_loss + bce_loss - 0.06624, iou_score - 0.8946]
+
+Epoch: 73
+train: 100%|██████████| 100/100 [00:28<00:00,  3.62it/s, dice_loss + bce_loss - 0.06475, iou_score - 0.8977]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.74it/s, dice_loss + bce_loss - 0.06837, iou_score - 0.8914]
+
+Epoch: 74
+train: 100%|██████████| 100/100 [00:28<00:00,  3.52it/s, dice_loss + bce_loss - 0.07477, iou_score - 0.8821]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.31it/s, dice_loss + bce_loss - 0.06407, iou_score - 0.8984]
+
+Epoch: 75
+train: 100%|██████████| 100/100 [00:28<00:00,  3.47it/s, dice_loss + bce_loss - 0.06416, iou_score - 0.8974]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.47it/s, dice_loss + bce_loss - 0.06816, iou_score - 0.8914]
+
+Epoch: 76
+train: 100%|██████████| 100/100 [00:29<00:00,  3.51it/s, dice_loss + bce_loss - 0.06575, iou_score - 0.8955]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.31it/s, dice_loss + bce_loss - 0.06203, iou_score - 0.9012]
+Model saved!
+
+Epoch: 77
+train: 100%|██████████| 100/100 [00:29<00:00,  3.53it/s, dice_loss + bce_loss - 0.07144, iou_score - 0.8879]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.46it/s, dice_loss + bce_loss - 0.06289, iou_score - 0.8996]
+
+Epoch: 78
+train: 100%|██████████| 100/100 [00:28<00:00,  3.49it/s, dice_loss + bce_loss - 0.06721, iou_score - 0.8932]
+valid: 100%|██████████| 100/100 [00:08<00:00, 12.18it/s, dice_loss + bce_loss - 0.06727, iou_score - 0.8929]
+
+Epoch: 79
+train: 100%|██████████| 100/100 [00:28<00:00,  3.60it/s, dice_loss + bce_loss - 0.07078, iou_score - 0.8881]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.52it/s, dice_loss + bce_loss - 0.06789, iou_score - 0.8918]
+
+Epoch: 80
+train: 100%|██████████| 100/100 [00:28<00:00,  3.60it/s, dice_loss + bce_loss - 0.06875, iou_score - 0.8902]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.40it/s, dice_loss + bce_loss - 0.06337, iou_score - 0.8982]
+
+Epoch: 81
+train: 100%|██████████| 100/100 [00:28<00:00,  3.53it/s, dice_loss + bce_loss - 0.06891, iou_score - 0.8903]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.42it/s, dice_loss + bce_loss - 0.0653, iou_score - 0.8954]
+
+Epoch: 82
+train: 100%|██████████| 100/100 [00:28<00:00,  3.62it/s, dice_loss + bce_loss - 0.06867, iou_score - 0.8904]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.58it/s, dice_loss + bce_loss - 0.06499, iou_score - 0.8955]
+
+Epoch: 83
+train: 100%|██████████| 100/100 [00:28<00:00,  3.61it/s, dice_loss + bce_loss - 0.06763, iou_score - 0.8922]
+valid: 100%|██████████| 100/100 [00:08<00:00, 11.56it/s, dice_loss + bce_loss - 0.06202, iou_score - 0.9008]

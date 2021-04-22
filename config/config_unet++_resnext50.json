@@ -1,0 +1,16 @@
+{
+    "sample_submission_path": "data/sample_submission.csv",
+    "mask_path": "data/mask/mask/",
+    "images_path": "data/Images_composit/Images_composit/8_ch/",
+    "device": "cuda",
+    "img_size": 256,
+
+    "batch": 5,
+    "patience": 7,
+    "img_channels": 1,
+    "is_siamese": false,
+    "model": "resnext50_32x4d",
+    "model_name": "unet++_resnext50",
+    "pretrained": "imagenet",
+    "activation": "sigmoid"
+}

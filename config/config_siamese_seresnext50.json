@@ -1,0 +1,15 @@
+{
+    "is_siamese": true,
+    "model": "seresnext50",
+    "in_filters": 24,
+    "model_name": "siamese_unet_seresnext50",
+    "pretrained_path": "models/pretrained/pseudo_scseresnext_seamese_unet_shared_seresnext50_0_best_xview",
+    "img_size": 256,
+    "sample_submission_path": "data/sample_submission.csv",
+    "mask_path": "data/mask/mask/",
+    "images_path": "data/Images_composit/Images_composit/8_ch/",
+    "img_channels": 3,
+    "batch": 5,
+    "device": "cuda",
+    "patience": 7
+}
