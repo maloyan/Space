@@ -1,6 +1,7 @@
-./data
-./logs
-./models
+./data/*
+./logs/*
+./models/pretrained/*
+./models/saved/*
 ./predicted_masks
 # Byte-compiled / optimized / DLL files
 __pycache__/
