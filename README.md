@@ -1,9 +1,19 @@
-satellite image difference
+Satellite Image Difference
 ==============================
+## Description
 
 With a given two images of the same place from the different dates we need to figure out binary mask with changes
 
 [Selim's pretrained models](https://github.com/selimsef/xview2_solution/releases/tag/0.0.1)
+
+## Train
+1. Put data, pretrained models in a proper folders
+2. Run the training proccess
+```
+python train.py config/config_unet++_resnext50.json
+python train.py config/config_siamese_seresnext50.json
+```
+
 
 Project Organization
 ------------
@@ -22,9 +32,7 @@ Project Organization
     │   ├── pretrained     <- Pretrained models for siamese models from Selim.
     │   └── saved          <- Trained on the competition data models.
     |
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    ├── notebooks          <- Jupyter notebooks.
     │
     ├── logs               <- Logs of training process: loss, IoU
     |
